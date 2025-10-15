@@ -1,0 +1,39 @@
+# Environment variables
+.env
+
+# Virtual environment
+/myvoice/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Frontend dependencies
+/project/node_modules
+
+# Frontend build
+/project/build
+
+# Package managers
+/project/.pnp
+/project/.pnp.js
+
+# Testing
+/project/coverage
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
